@@ -1,1 +1,1 @@
-# 使用了react-redux demo
+# 使用了react-redux 的一个demo
